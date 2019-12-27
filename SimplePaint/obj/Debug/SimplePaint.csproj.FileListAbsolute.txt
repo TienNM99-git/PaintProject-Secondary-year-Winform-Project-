@@ -1,0 +1,10 @@
+E:\Third year\SimplePaint\bin\Debug\SimplePaint.exe.config
+E:\Third year\SimplePaint\bin\Debug\SimplePaint.exe
+E:\Third year\SimplePaint\bin\Debug\SimplePaint.pdb
+E:\Third year\SimplePaint\obj\Debug\SimplePaint.csprojAssemblyReference.cache
+E:\Third year\SimplePaint\obj\Debug\SimplePaint.FrmMain.resources
+E:\Third year\SimplePaint\obj\Debug\SimplePaint.Properties.Resources.resources
+E:\Third year\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+E:\Third year\SimplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+E:\Third year\SimplePaint\obj\Debug\SimplePaint.exe
+E:\Third year\SimplePaint\obj\Debug\SimplePaint.pdb
